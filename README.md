@@ -1,7 +1,6 @@
-README.txt
+#README.txt
 Assignment: Assessment 1 – Worker Task Simulation
 Author: Roland Almeda
-Student ID: 8580479
 This program simulates task performance by multiple workers, calculates their average performance on each task, and assigns the task to the best-performing worker.
 Files included:
 driver.cpp – Contains main(). Handles reading the input files (Tasks.txt and Workers.txt) and calling functions to process and output task information.

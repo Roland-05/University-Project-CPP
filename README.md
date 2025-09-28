@@ -1,13 +1,13 @@
 # Worker Task Simulation
 
 **Assignment:** Assessment 1 – Worker Task Simulation  
-**Author:** dsa  
+**Author:** Roland  
 
 This program simulates task performance by multiple workers, calculates their average performance on each task, and assigns the task to the best-performing worker.
 
 ---
 
-## 📂 Files Included
+## Files Included
 - **driver.cpp** – Contains `main()`. Handles reading the input files (`Tasks.txt` and `Workers.txt`) and calling functions to process and output task information.  
 - **header.h** – Header file containing the function prototypes and struct definitions (`Worker` and `Task`).  
 - **header.cpp** – Implementation file containing the function definitions for reading files, calculating average performance, and processing/printing task info.  
@@ -15,7 +15,7 @@ This program simulates task performance by multiple workers, calculates their av
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Ensure `Tasks.txt` and `Workers.txt` are in the same directory as your source code.  
 2. Navigate to the directory containing `driver.cpp`, `header.h`, `header.cpp`, `Tasks.txt`, and `Workers.txt`.  
 3. Compile the code using a C++17 compliant compiler:  
